@@ -92,4 +92,8 @@ public class SystemDesign {
     }
 
 
+    public void fun(){
+
+    }
+
 }
